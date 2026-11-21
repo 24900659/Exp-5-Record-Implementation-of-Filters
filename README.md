@@ -56,8 +56,11 @@ Step 10:
 Display all filtered images using a grid layout for comparison.
 
 Developed By
+
 Name: MOHANA K.V.S.L
+
 Reg.No: 212224240093
+
 Program:
 ```
 import cv2
