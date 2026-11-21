@@ -187,7 +187,8 @@ OUTPUT:
 
 
 
-Result
+Result:
+
 Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
 The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.
